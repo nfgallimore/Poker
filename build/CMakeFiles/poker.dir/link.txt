@@ -1,1 +1,0 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -std="c++17" -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/poker.dir/poker.cpp.o  -o poker 
